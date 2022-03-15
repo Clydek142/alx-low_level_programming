@@ -1,7 +1,7 @@
 #include "main.h"
+
 /**
- *  *main - putchat prints charater
- *   *
+ * main - putchat prints charater
  *     Return: Always 0 (success)
  */
 int main(void)
