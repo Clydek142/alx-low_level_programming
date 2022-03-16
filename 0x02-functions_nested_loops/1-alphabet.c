@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * main - prints the alphabet
+ * main - check the code
  *
  *print_alphabet
  * Return: Always 0 Success
@@ -12,9 +12,9 @@ void print_alphabet(void)
 {
 	char id;
 	
-	for id = 'a'; id <='z'; id++)
+	for id = 'a' id <='z' id++);
 	{
-		_putchar(id);
+		putchar(id);
 	}
-	_putchar('\n');
+	putchar('\n');
 }
